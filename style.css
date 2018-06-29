@@ -47,6 +47,12 @@ alert {
   text-align: center;
 }
 
+.text-left{
+  color:#303030;
+}
+.nav-link a{
+  color: #303030;
+}
 .presentation {
   margin-top: 6em;
 }
@@ -386,12 +392,24 @@ a {
 .paragraph {
   text-align: center;
   padding-left: 18%;
+  color:#303030;
+}
+.paragraph a{
+  color: #004999;
 }
 
+.col-12{
+  color:#303030;
+}
+.col-md-8 p{
+  color: #303030;
+}
 .container-fluid {
   width: 300px;
 }
-
+.col a{
+  color: #004999;
+}
 .fiches-grid {
   width: 90%;
   margin-left: auto;
@@ -418,9 +436,13 @@ a {
 .liste-fiche {
   list-style: none;
   text-align: left;
+
+}
+.liste-fiche a{
+  color: #303030;
 }
 
-.liste-fiche a {
+.liste-fiche li {
   text-decoration: none;
   color: #8087ab;
 }
