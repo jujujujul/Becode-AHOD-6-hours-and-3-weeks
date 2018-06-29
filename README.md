@@ -1,7 +1,7 @@
 # 6-hour Team Challenge
 #guerilla style
 
-## Groupes :
+## Groupe :
 Julie Connerotte
 Ludovic Ceccotti
 Alexandre Infanti
